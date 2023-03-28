@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Tuning Fork Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Tuning Fork Regular'), url('tuning_fork.woff') format('woff');
+    }
+
+    h1 {
+        font-family: 'Tuning Fork Regular';
+        color: #0ccac4;
+        font-weight: 300;
+        
+    }
