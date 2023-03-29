@@ -4,8 +4,7 @@ import './index.css';
 import 'tachyons';
 import App from './containers/App';
 import reportWebVitals from './reportWebVitals';
-// test commit
-
+// cleaned up 3/29
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
